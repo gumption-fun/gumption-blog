@@ -11,7 +11,6 @@ markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
 # permalink: /blog/:categories/:year/:month/:day/:title.html
-permalink: /blog/:categories/:slug
 timezone: America/New_York
 excerpt_separator: <!--more-->
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
