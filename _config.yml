@@ -1,17 +1,17 @@
 # Note: Remove the baseurl in order to deploy at the domain root
 baseurl: /jekyll-theme-tufte
-title: jekyll-theme-tufte
+title: RJ's blog
 # Whether the header (with large title and subtitle) should be displayed
 header: false
-subtitle: A Jekyll theme based on tufte-css
-author: Andy Brody
-description: A Jekyll theme based on tufte-css
+subtitle: What do images do to us? And how do they do it?
+author: RJ
+description: 
 show_author: true
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
 # permalink: /blog/:categories/:year/:month/:day/:title.html
-timezone: America/New_York
+timezone: America/Los_Angeles
 excerpt_separator: <!--more-->
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 plugins:
