@@ -1,5 +1,5 @@
 ---
 layout: blog-list
-title: Blog
-weight: 2
+title: " "
+weight: 7
 ---
