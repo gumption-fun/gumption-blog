@@ -1,5 +1,5 @@
 # Note: Remove the baseurl in order to deploy at the domain root
-baseurl: /jekyll-theme-tufte
+baseurl:
 title: RJ's blog
 # Whether the header (with large title and subtitle) should be displayed
 header: false
